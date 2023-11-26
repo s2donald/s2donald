@@ -4,16 +4,21 @@ import {
   creator,
   web,
   javascript,
+  java,
   typescript,
+  aws,
   html,
   css,
   reactjs,
   redux,
+  langchain,
+  python,
+  pandas,
   tailwind,
   nodejs,
-  mongodb,
+  postgres,
   git,
-  figma,
+  pytorch,
   docker,
   aviva,
   deloitte,
@@ -62,56 +67,56 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
+    name: "Python",
+    icon: python,
+  },
+  {
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "Java",
+    icon: java,
+  },
+  {
+    name: "HTML",
     icon: html,
   },
   {
-    name: "CSS 3",
+    name: "CSS",
     icon: css,
   },
   {
-    name: "JavaScript",
+    name: "Javascript",
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Pandas",
+    icon: pandas,
   },
   {
     name: "Node JS",
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "PostgreSQL",
+    icon: postgres,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "LangChain",
+    icon: langchain,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "PyTorch",
+    icon: pytorch,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "ReactJS",
+    icon: reactjs,
   },
 ];
 
