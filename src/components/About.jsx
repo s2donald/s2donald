@@ -48,7 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I'm a skilled software engineer with expertise writing Python and Java programs, and experience with frontend 
-        frameworks like React, Node.js, and Three.js. I have a passion for understanding and implementing the underlying
+        frameworks like React. I have a passion for understanding and implementing the underlying
         tech architecture and knowing what are the best tools required for any specific project. I'm a quick learner and collaborate 
         closely with clients to create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!

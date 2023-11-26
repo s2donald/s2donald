@@ -128,10 +128,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2021 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Designed a common LLM module that parses diverse data sources (Postgres, Hadoop, CSV, and Confluence Pages) using Hugging Face API, llama2 models, and LangChain.",
+      "Implemented the common LLM module to allow Aviva’s ML programs, enabling them to comprehend and answer questions based on the information from the various resources.",
+      "Delevoped an on-premise data feed module using Python, Pandas and SQLAlchemy as a data management solution. The module facilitates consistent extraction and loading of data from diverse sources across different projects.",
+      "Successfully migrated on-premise data stored in Remote Servers, Hadoop and Postgres to the AWS ecosystem using a variety of AWS tools such as DataSync, Snowball, Direct Connect, etc, ensuring seemless data transition with zero loss, boosting system efficiency by 35%.",
+      "Converted projects using the Luigi python package for data preprocessing to Apache Airflow so that it can be used in the AWS Ecosystem in tools such as AWS EMR and AWS Glue.",
     ],
   },
   {

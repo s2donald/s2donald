@@ -33,7 +33,7 @@ import echelon from "./company/echelon.jpeg";
 import ia from "./company/ia.png";
 import manulife from "./company/manulife.png";
 
-import carrent from "./carrent.png";
+import carrent from "./AmazonClone.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
